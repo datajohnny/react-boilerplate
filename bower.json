@@ -1,0 +1,16 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "Bower react boilerplate",
+  "authors": [
+    "Johnny Mejias"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
