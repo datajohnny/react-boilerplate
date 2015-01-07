@@ -1,1 +1,1 @@
-***Gulp React Boilerplate
+# Gulp React Boilerplate
